@@ -5,8 +5,8 @@
    | |/ ___ \ ___) | |  | |/ ___ \_____| |  | | |_| |
    |_/_/   \_\____/___| |_/_/   \_\    |_|  |_|____/
 
-* @project_name YASIYA-MD
-* @authors Dark Yasiya & Sadeepa Chamudith
+* @project_name Esanda-MD
+* @authors Dark Esanda & Esanda Chamudith
 * @description Yasiya-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖
 * @link <https://github.com/DarkYasiyaNew/YASIYA-MD>
 * @version 1.0.0
